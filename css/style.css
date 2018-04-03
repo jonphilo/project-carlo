@@ -1,0 +1,43 @@
+.center{
+    text-align: center;
+}
+
+.content-container{
+    width: 100%;
+}
+
+.container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+body{
+    width: 100%;
+}
+
+.navbar{
+    text-align: center;
+    box-shadow: 0 4px 2px -2px #d9d9d9;
+    background: white;
+    padding-left: 28%;
+    padding-right:28%;
+}
+
+.navbar-brand{
+    font-size: xx-large;
+    font-family: 'Bad Script', cursive;
+}
+
+.nav-item{
+    font-size: x-large;
+    font-family: 'Bad Script', cursive;
+}
+
+.nav-item:hover{
+    border-bottom: 2px solid #f6dfe5;
+    transition: all 0.4s ease-in-out;
+}
+
+.jumbotron{
+    background: transparent;
+}
