@@ -24,12 +24,12 @@ body{
 }
 
 .navbar-brand{
-    font-size: xx-large;
+    font-size: 3rem;
     font-family: 'Bad Script', cursive;
 }
 
 .nav-item{
-    font-size: x-large;
+    font-size: 1.6rem;
     font-family: 'Bad Script', cursive;
 }
 
@@ -40,4 +40,8 @@ body{
 
 .jumbotron{
     background: transparent;
+}
+
+.badscript{
+    font-family: 'Bad Script', cursive;
 }
