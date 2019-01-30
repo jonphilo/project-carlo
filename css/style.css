@@ -13,14 +13,20 @@
 
 body{
     width: 100%;
+    background-color: #f6dfe5;
+}
+
+#flowers{
+    left: 0;
+    float: left;
 }
 
 .navbar{
     text-align: center;
     box-shadow: 0 4px 2px -2px #d9d9d9;
     background: white;
-    padding-left: 28%;
-    padding-right:28%;
+    padding-left: 25%;
+    padding-right:25%;
 }
 
 .navbar-brand{
@@ -45,3 +51,85 @@ body{
 .badscript{
     font-family: 'Bad Script', cursive;
 }
+
+#seph2 h2{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #d9d9d9; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ #seph2 h2 span { 
+     background:#f6dfe5; 
+     font-size: 1.6rem;
+     font-family: 'Bad Script', cursive;
+     padding:0 10px; 
+ }
+
+ 
+#seph2 h4{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #d9d9d9; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ #seph2 h4 span { 
+     font-size: 1.6rem;
+     background: white;
+     font-family: 'Bad Script', cursive;
+     padding:0 10px; 
+ }
+
+ #comingSoon h2{
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #ffffff; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    padding-top: 35vh;
+ } 
+ 
+ #comingSoon h2 span {
+     background:#f6dfe5; 
+     font-size: 1.6rem;
+     font-weight: 600;
+     color: #ffffff;
+     font-family: 'Bad Script', cursive;
+     padding:0 10px; 
+ }
+
+ button{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #d9d9d9;
+    background: #ffffff; 
+    margin-right: 30px;
+    cursor: pointer;
+    box-shadow: 0 4px 2px -2px #d9d9d9;
+ }
+ 
+ /* .card{
+     background: transparent;
+     border: none;
+ } */
+
+ .card-header{
+     background: transparent;
+     border: none;
+     font-size: 2rem;
+ }
+
+ .card-footer{
+     background: transparent;
+     border: none;
+ }
+
+ .card-footer button{
+     height: 2.5rem;
+     width: 10rem;
+     color: white;
+     background: #dd9cad;
+ }

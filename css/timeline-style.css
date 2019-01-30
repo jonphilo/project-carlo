@@ -100,6 +100,19 @@ Vertical Timeline - by CodyHouse.co
   margin-top: -12px;
 }
 
+.cd-timeline__img img {
+  display: block;
+  width: 32px;
+  height: 32px;
+  font-size: 24;
+  position: relative;
+  color: white;
+  left: 44%;
+  top: 44%;
+  margin-left: -12px;
+  margin-top: -12px;
+}
+
 .cd-timeline__img.cd-timeline__img--picture {
   background: #dd9cad;
 }
